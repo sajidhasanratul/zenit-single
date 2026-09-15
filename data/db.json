@@ -1,0 +1,3312 @@
+{
+  "settings": {
+    "gtmId": "GTM-DEMO123",
+    "pixelId": "PIXEL-DEMO123",
+    "capiAccessToken": "",
+    "capiTestEventCode": "TEST12345"
+  },
+  "leads": [
+    {
+      "fullName": "Test",
+      "businessName": "hhhh",
+      "phone": "+8801312089908",
+      "email": "sajidhasan72885@gmail.com",
+      "selectedPackageCategory": "pos",
+      "selectedItems": [
+        "Contact Page Intake Form"
+      ],
+      "totalEstimatedBudgetBDT": 350000,
+      "sourcePage": "/contact",
+      "calculatorMetrics": {
+        "monthlyTraffic": 15000,
+        "currentConversionRate": 1.2,
+        "projectedRevenueIncrease": 45000
+      },
+      "submittedAt": "2026-08-22T18:52:19.825Z",
+      "id": "lead-1787424739829"
+    },
+    {
+      "fullName": "Test",
+      "businessName": "hhhh",
+      "phone": "+8801312089908",
+      "email": "sajidhasan72885@gmail.com",
+      "selectedPackageCategory": "web_dev",
+      "selectedItems": [
+        "Contact Page Intake Form"
+      ],
+      "totalEstimatedBudgetBDT": 450000,
+      "sourcePage": "/contact",
+      "submittedAt": "2026-08-22T18:50:56.270Z",
+      "id": "lead-1787424656274"
+    },
+    {
+      "fullName": "Anonymous Bundle Builder",
+      "businessName": "Self Customizer",
+      "phone": "+8801516501284",
+      "email": "",
+      "selectedPackageCategory": "custom_bundle",
+      "selectedItems": [
+        "Full E-Commerce Engine"
+      ],
+      "totalEstimatedBudgetBDT": 17500,
+      "sourcePage": "/services",
+      "submittedAt": "2026-08-20T22:41:48.686Z",
+      "id": "lead-1787265708690"
+    },
+    {
+      "fullName": "Anonymous Bundle Builder",
+      "businessName": "Self Customizer",
+      "phone": "00000000000",
+      "email": "",
+      "selectedPackageCategory": "custom_bundle",
+      "selectedItems": [
+        "High-Speed Landing Page"
+      ],
+      "totalEstimatedBudgetBDT": 9500,
+      "sourcePage": "/services",
+      "submittedAt": "2026-08-20T22:05:04.680Z",
+      "id": "lead-1787263504698"
+    },
+    {
+      "id": "lead-1",
+      "fullName": "Tanvir Rahman",
+      "businessName": "Apex E-com BD",
+      "phone": "+8801712345678",
+      "email": "tanvir@apex.com.bd",
+      "selectedPackageCategory": "web_dev",
+      "selectedItems": [
+        "Full E-Commerce Engine"
+      ],
+      "totalEstimatedBudgetBDT": 35000,
+      "sourcePage": "/",
+      "submittedAt": "2026-08-19T19:41:08.405Z"
+    },
+    {
+      "id": "lead-2",
+      "fullName": "Sumaiya Akter",
+      "businessName": "NextGen Retailers",
+      "phone": "+8801812345678",
+      "email": "sumaiya@nextgen.bd",
+      "selectedPackageCategory": "custom_bundle",
+      "selectedItems": [
+        "High-Speed Landing Page",
+        "Meta Tracking & CAPI Precision",
+        "AI Sales Agent & Lead Automation"
+      ],
+      "totalEstimatedBudgetBDT": 32000,
+      "sourcePage": "/services-and-products",
+      "submittedAt": "2026-08-20T15:41:08.406Z"
+    }
+  ],
+  "visits": [
+    {
+      "timestamp": "2026-09-15T18:59:44.692Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-09-15T18:59:41.739Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-09-15T18:59:18.579Z",
+      "path": "/admin/products-services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-09-15T18:59:04.152Z",
+      "path": "/admin/projects",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-09-15T18:58:57.124Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-09-15T18:58:46.296Z",
+      "path": "/admin/login",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-09-15T18:58:45.751Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-09-15T18:58:37.694Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-09-15T18:58:06.974Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-09-15T18:57:50.132Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T17:39:08.732Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T17:26:38.950Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T16:51:41.803Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T16:50:39.744Z",
+      "path": "/refund-policy",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T16:48:25.469Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T16:43:28.647Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T16:41:24.146Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T15:07:22.980Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/151.0.0.0 Mobile Safari/537.36",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T15:06:22.562Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Edg/151.0.0.0 Mobile Safari/537.36",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T15:04:00.739Z",
+      "path": "/about",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T14:53:32.919Z",
+      "path": "/about",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T14:34:11.629Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T14:33:59.074Z",
+      "path": "/privacy",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T14:33:55.570Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T14:24:12.005Z",
+      "path": "/terms",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-23T14:17:59.533Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T22:01:33.813Z",
+      "path": "/contact",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T22:01:33.450Z",
+      "path": "/about",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T21:26:52.252Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T21:10:19.222Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:52:35.017Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:52:16.708Z",
+      "path": "/admin/products-services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:52:06.050Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:51:56.552Z",
+      "path": "/admin/login",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:50:45.155Z",
+      "path": "/admin/products-services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:50:42.425Z",
+      "path": "/admin/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:50:39.724Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:50:39.404Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:50:30.922Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:49:11.864Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:49:06.550Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:48:16.324Z",
+      "path": "/order/high-speed-landing-page",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:48:10.865Z",
+      "path": "/refund-policy",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:48:07.431Z",
+      "path": "/order/high-speed-landing-page",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:48:05.298Z",
+      "path": "/privacy",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:48:01.908Z",
+      "path": "/order/high-speed-landing-page",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:48:00.093Z",
+      "path": "/terms",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:39:35.979Z",
+      "path": "/order/high-speed-landing-page",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:39:32.421Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:39:10.587Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:39:06.322Z",
+      "path": "/order/web-development",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:39:02.742Z",
+      "path": "/admin/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:38:36.863Z",
+      "path": "/admin/admin-control",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:38:34.607Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:38:34.156Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:38:25.946Z",
+      "path": "/admin-control",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:31:21.291Z",
+      "path": "/",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:31:03.233Z",
+      "path": "/about",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:30:59.209Z",
+      "path": "/contact",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:30:46.026Z",
+      "path": "/",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:05:39.886Z",
+      "path": "/order/meta-ads-growth-retainer",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:05:36.334Z",
+      "path": "/services",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:05:22.392Z",
+      "path": "/order/meta-ads-growth-retainer",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:05:13.320Z",
+      "path": "/services",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:01:25.729Z",
+      "path": "/order/high-speed-landing-page",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:01:19.086Z",
+      "path": "/services",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:00:46.363Z",
+      "path": "/order/full-ecommerce-engine",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:00:43.959Z",
+      "path": "/services",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:00:23.098Z",
+      "path": "/admin/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T20:00:21.222Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:59:51.433Z",
+      "path": "/admin/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:59:44.085Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:59:43.744Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:58:22.747Z",
+      "path": "/order/high-speed-landing-page",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:58:18.808Z",
+      "path": "/services",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:58:17.009Z",
+      "path": "/pricing",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:54:40.359Z",
+      "path": "/admin/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:50:32.198Z",
+      "path": "/admin/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:50:28.624Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:50:28.502Z",
+      "path": "/admin",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:50:13.139Z",
+      "path": "/admin/login",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:50:12.710Z",
+      "path": "/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T19:01:46.869Z",
+      "path": "/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:52:46.944Z",
+      "path": "/admin/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:52:26.512Z",
+      "path": "/admin/leads",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:52:03.181Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:51:41.089Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:51:01.870Z",
+      "path": "/admin/leads",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:50:35.532Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:50:29.611Z",
+      "path": "/admin/leads",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:50:24.267Z",
+      "path": "/admin/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:50:21.040Z",
+      "path": "/admin/leads",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:50:11.585Z",
+      "path": "/admin/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:49:42.808Z",
+      "path": "/admin/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:49:33.590Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:49:33.226Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:49:22.424Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:48:57.143Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:44:23.463Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:44:11.190Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:41:14.916Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T18:40:52.458Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T17:14:55.799Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T17:14:52.460Z",
+      "path": "/about",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T17:14:47.371Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-22T17:14:41.785Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:22:37.164Z",
+      "path": "/services",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:19:57.069Z",
+      "path": "/admin/products-services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:19:44.625Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:19:40.669Z",
+      "path": "/admin/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:19:34.694Z",
+      "path": "/admin/settings",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:19:32.212Z",
+      "path": "/admin/leads",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:19:24.525Z",
+      "path": "/admin/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:19:16.664Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:19:16.542Z",
+      "path": "/admin",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:19:10.394Z",
+      "path": "/admin/login",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:19:09.990Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:18:58.932Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:17:36.892Z",
+      "path": "/services",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:09:16.697Z",
+      "path": "/contact",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:08:19.414Z",
+      "path": "/",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:07:38.424Z",
+      "path": "/pricing",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:07:29.528Z",
+      "path": "/services",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:04:10.192Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:02:45.336Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:02:02.540Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:01:53.278Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T23:01:47.179Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T22:57:34.589Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:53:40.613Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:53:37.652Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:53:34.885Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:53:33.119Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:53:31.588Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:53:29.967Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:53:27.401Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:53:23.632Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:33:35.555Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:32:59.859Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:32:48.471Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:21:42.877Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:21:42.153Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:21:40.316Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:21:39.418Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:21:38.742Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:21:37.359Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:15:18.711Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:14:55.300Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:13:51.280Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:13:49.869Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:13:20.498Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:11:29.662Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:11:10.689Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:10:57.753Z",
+      "path": "/about",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:10:55.323Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:10:43.480Z",
+      "path": "/projects",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:10:38.478Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:10:20.101Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:10:09.504Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:09:34.376Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:04:32.397Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:04:30.818Z",
+      "path": "/admin/settings",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:04:29.753Z",
+      "path": "/admin/leads",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:04:28.897Z",
+      "path": "/admin/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:04:27.194Z",
+      "path": "/admin/products-services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:04:26.086Z",
+      "path": "/admin/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:03:31.744Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:03:30.018Z",
+      "path": "/admin/orders",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:03:26.804Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:03:23.542Z",
+      "path": "/admin/leads",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:03:18.264Z",
+      "path": "/admin/products-services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:03:09.479Z",
+      "path": "/admin/dashboard",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:03:09.009Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:02:46.615Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:02:33.583Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:02:26.548Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:02:23.869Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:00:17.729Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T21:00:10.773Z",
+      "path": "/services",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T18:32:08.773Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T18:31:59.286Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T18:30:00.180Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T18:24:34.288Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T10:18:38.325Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T10:14:15.385Z",
+      "path": "/order/high-speed-landing-page",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T10:14:13.469Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T10:14:11.080Z",
+      "path": "/order/full-ecommerce-engine",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T09:40:46.979Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T09:15:40.780Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T09:14:51.457Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T09:03:09.958Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T09:02:58.607Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T09:02:57.719Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T09:02:56.911Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T09:02:16.999Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:52:49.553Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:48:24.718Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:39:53.643Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:29:16.269Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:28:31.107Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:27:19.780Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:26:28.993Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:26:16.681Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:25:04.518Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:24:53.899Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:24:48.550Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:24:43.380Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:24:41.459Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:24:40.088Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-21T08:24:33.762Z",
+      "path": "/services",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:51:37.248Z",
+      "path": "/services",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:51:32.007Z",
+      "path": "/pricing",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:47:21.863Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:47:18.095Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:46:37.427Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:44:37.358Z",
+      "path": "/",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:41:11.084Z",
+      "path": "/services",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:40:32.874Z",
+      "path": "/pricing",
+      "referrer": "http://localhost:3001/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:36:57.575Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:36:56.086Z",
+      "path": "/refund-policy",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:36:54.024Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:36:53.402Z",
+      "path": "/privacy",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:36:51.571Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:36:50.152Z",
+      "path": "/terms",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:36:24.980Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:36:24.069Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:28:10.960Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:28:03.518Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:27:34.231Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:26:26.705Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:26:25.075Z",
+      "path": "/order/full-ecommerce-engine",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:24:47.930Z",
+      "path": "/admin",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:24:39.851Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:24:38.091Z",
+      "path": "/order/full-ecommerce-engine",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:24:31.158Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:23:59.019Z",
+      "path": "/projects",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:23:52.682Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:21:08.614Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:20:57.657Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:20:42.941Z",
+      "path": "/order/full-ecommerce-engine",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:20:29.972Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:20:26.045Z",
+      "path": "/order/full-ecommerce-engine",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:20:24.033Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:20:18.043Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:20:16.485Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:20:13.948Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:20:01.079Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:19:57.620Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:19:34.652Z",
+      "path": "/admin",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:19:34.197Z",
+      "path": "/admin/login",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:16:22.348Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:12:29.043Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:11:18.712Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:11:10.482Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:11:07.004Z",
+      "path": "/order/high-speed-landing-page",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:11:03.828Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:09:12.677Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:09:11.684Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:09:01.700Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:08:51.475Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:08:50.384Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:08:47.665Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:08:24.876Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:06:01.237Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:05:40.989Z",
+      "path": "/order/high-speed-landing-page",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:04:41.129Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:04:02.839Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:03:48.128Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:03:45.781Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:01:30.670Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:01:25.587Z",
+      "path": "/",
+      "referrer": "http://localhost:3000/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:00:30.339Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:00:28.267Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:00:24.717Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:00:23.349Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:00:19.999Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:00:17.832Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T22:00:01.677Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:59:58.366Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:59:28.145Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:59:25.045Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:59:07.897Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:59:00.684Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:58:45.901Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:56:43.397Z",
+      "path": "/admin",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:56:36.573Z",
+      "path": "/admin/login",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:56:36.056Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:56:28.437Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:56:25.935Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:55:13.776Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:55:00.742Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:54:18.106Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:49:44.779Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:49:42.757Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:49:01.880Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:48:58.942Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:48:09.930Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:48:04.220Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:45:36.991Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:45:34.954Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:45:21.413Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:38:42.726Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:38:20.930Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:38:11.311Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:38:08.581Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:38:06.591Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:38:04.553Z",
+      "path": "/projects",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:37:53.563Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:26:00.564Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:24:07.986Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:24:04.185Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:23:33.325Z",
+      "path": "/admin",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:23:26.738Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:23:00.224Z",
+      "path": "/admin",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:22:59.603Z",
+      "path": "/projects",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:22:59.108Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:22:56.855Z",
+      "path": "/about",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:22:54.731Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:22:53.812Z",
+      "path": "/projects",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:22:51.038Z",
+      "path": "/admin",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:22:49.289Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:22:06.307Z",
+      "path": "/admin",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:21:51.570Z",
+      "path": "/admin/login",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:21:50.811Z",
+      "path": "/admin",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:21:04.138Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:20:18.376Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:20:00.708Z",
+      "path": "/contact",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:19:55.206Z",
+      "path": "/projects",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:19:41.838Z",
+      "path": "/pricing",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:19:31.571Z",
+      "path": "/services",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T21:18:45.296Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+      "ip": "::1"
+    },
+    {
+      "timestamp": "2026-08-20T19:41:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "https://google.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.10"
+    },
+    {
+      "timestamp": "2026-08-20T16:11:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.11"
+    },
+    {
+      "timestamp": "2026-08-20T12:41:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.12"
+    },
+    {
+      "timestamp": "2026-08-20T09:11:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.13"
+    },
+    {
+      "timestamp": "2026-08-20T05:41:08.406Z",
+      "path": "/",
+      "referrer": "https://google.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.14"
+    },
+    {
+      "timestamp": "2026-08-20T02:11:08.406Z",
+      "path": "/about",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.15"
+    },
+    {
+      "timestamp": "2026-08-19T22:41:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.16"
+    },
+    {
+      "timestamp": "2026-08-19T19:11:08.406Z",
+      "path": "/",
+      "referrer": "https://facebook.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.17"
+    },
+    {
+      "timestamp": "2026-08-19T15:41:08.406Z",
+      "path": "/",
+      "referrer": "https://google.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.18"
+    },
+    {
+      "timestamp": "2026-08-19T12:11:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.19"
+    },
+    {
+      "timestamp": "2026-08-19T08:41:08.406Z",
+      "path": "/about",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.20"
+    },
+    {
+      "timestamp": "2026-08-19T05:11:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.21"
+    },
+    {
+      "timestamp": "2026-08-19T01:41:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "https://google.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.22"
+    },
+    {
+      "timestamp": "2026-08-18T22:11:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.23"
+    },
+    {
+      "timestamp": "2026-08-18T18:41:08.406Z",
+      "path": "/",
+      "referrer": "https://facebook.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.24"
+    },
+    {
+      "timestamp": "2026-08-18T15:11:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.10"
+    },
+    {
+      "timestamp": "2026-08-18T11:41:08.406Z",
+      "path": "/",
+      "referrer": "https://google.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.11"
+    },
+    {
+      "timestamp": "2026-08-18T08:11:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.12"
+    },
+    {
+      "timestamp": "2026-08-18T04:41:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.13"
+    },
+    {
+      "timestamp": "2026-08-18T01:11:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.14"
+    },
+    {
+      "timestamp": "2026-08-17T21:41:08.406Z",
+      "path": "/about",
+      "referrer": "https://google.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.15"
+    },
+    {
+      "timestamp": "2026-08-17T18:11:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "https://facebook.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.16"
+    },
+    {
+      "timestamp": "2026-08-17T14:41:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.17"
+    },
+    {
+      "timestamp": "2026-08-17T11:11:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.18"
+    },
+    {
+      "timestamp": "2026-08-17T07:41:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "https://google.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.19"
+    },
+    {
+      "timestamp": "2026-08-17T04:11:08.406Z",
+      "path": "/about",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.20"
+    },
+    {
+      "timestamp": "2026-08-17T00:41:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.21"
+    },
+    {
+      "timestamp": "2026-08-16T21:11:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.22"
+    },
+    {
+      "timestamp": "2026-08-16T17:41:08.406Z",
+      "path": "/",
+      "referrer": "https://google.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.23"
+    },
+    {
+      "timestamp": "2026-08-16T14:11:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.24"
+    },
+    {
+      "timestamp": "2026-08-16T10:41:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.10"
+    },
+    {
+      "timestamp": "2026-08-16T07:11:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.11"
+    },
+    {
+      "timestamp": "2026-08-16T03:41:08.406Z",
+      "path": "/",
+      "referrer": "https://google.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.12"
+    },
+    {
+      "timestamp": "2026-08-16T00:11:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.13"
+    },
+    {
+      "timestamp": "2026-08-15T20:41:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.14"
+    },
+    {
+      "timestamp": "2026-08-15T17:11:08.406Z",
+      "path": "/about",
+      "referrer": "https://facebook.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.15"
+    },
+    {
+      "timestamp": "2026-08-15T13:41:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "https://google.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.16"
+    },
+    {
+      "timestamp": "2026-08-15T10:11:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.17"
+    },
+    {
+      "timestamp": "2026-08-15T06:41:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.18"
+    },
+    {
+      "timestamp": "2026-08-15T03:11:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.19"
+    },
+    {
+      "timestamp": "2026-08-14T23:41:08.406Z",
+      "path": "/about",
+      "referrer": "https://google.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.20"
+    },
+    {
+      "timestamp": "2026-08-14T20:11:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.21"
+    },
+    {
+      "timestamp": "2026-08-14T16:41:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "https://facebook.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.22"
+    },
+    {
+      "timestamp": "2026-08-14T13:11:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.23"
+    },
+    {
+      "timestamp": "2026-08-14T09:41:08.406Z",
+      "path": "/",
+      "referrer": "https://google.com",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.24"
+    },
+    {
+      "timestamp": "2026-08-14T06:11:08.406Z",
+      "path": "/services-and-products",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.10"
+    },
+    {
+      "timestamp": "2026-08-14T02:41:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.11"
+    },
+    {
+      "timestamp": "2026-08-13T23:11:08.406Z",
+      "path": "/",
+      "referrer": "direct",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "ip": "192.168.1.12"
+    }
+  ],
+  "bundleSpecs": [],
+  "services": [
+    {
+      "id": "prod-landing-page",
+      "slug": "high-speed-landing-page",
+      "category": "web_dev",
+      "title": "High-Speed Landing Page",
+      "tagline": "Sub-second speed loading landing pages conversion-tuned for high advertising ROAS.",
+      "pricing": {
+        "basePriceBDT": 6000,
+        "billingType": "one_time",
+        "discountedPriceBDT": 9500
+      },
+      "deliveryTimeDays": 5,
+      "featuresIncluded": [
+        "1 Custom Page Design & Build",
+        "Google Lighthouse Performance score 95+",
+        "Full Responsive Layout (Mobile-first)",
+        "Meta Pixel + Server-Side CAPI setup",
+        "WhatsApp Integration & Click-to-Chat",
+        "Contact Forms with Lead Ingestion"
+      ],
+      "featuresExcluded": [
+        "Multi-page navigation flow",
+        "Add-to-cart or shopping cart engine",
+        "Client dashboard log-in interface"
+      ],
+      "techBadges": [
+        "Next.js",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Vercel"
+      ],
+      "isPopular": false,
+      "demoUrl": "https://skcomart.com",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "topBadges": [
+        "Client Website"
+      ],
+      "subBadges": [
+        "Next.js",
+        "Tailwind CSS"
+      ],
+      "basePriceBDT": 6000,
+      "priority": 0,
+      "imageUrl": ""
+    },
+    {
+      "id": "prod-ecommerce",
+      "slug": "full-ecommerce-engine",
+      "category": "web_dev",
+      "title": "Full E-Commerce Engine",
+      "tagline": "High-converting online store with dynamic cart, local checkout, and shipping API hooks.",
+      "pricing": {
+        "basePriceBDT": 35000,
+        "billingType": "one_time",
+        "discountedPriceBDT": 32000
+      },
+      "deliveryTimeDays": 14,
+      "featuresIncluded": [
+        "Full Product Catalog & Categories",
+        "Dynamic Sliding Cart & Quick checkout",
+        "Local courier integrations (Steadfast, Pathao API)",
+        "Automatic fraud warning dashboard",
+        "Server-side purchase tracking (Meta CAPI)",
+        "Admin order management panel"
+      ],
+      "featuresExcluded": [
+        "Multi-vendor marketplace capability",
+        "Automated multi-currency taxes"
+      ],
+      "techBadges": [
+        "Next.js",
+        "Node.js",
+        "Supabase",
+        "Steadfast API"
+      ],
+      "isPopular": true,
+      "demoUrl": "https://skcomart.com",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "topBadges": [
+        "Client Website",
+        "Premium"
+      ],
+      "subBadges": [
+        "Next.js",
+        "Node.js"
+      ]
+    },
+    {
+      "id": "prod-enterprise-app",
+      "slug": "enterprise-web-application",
+      "category": "web_dev",
+      "title": "Enterprise Web Application",
+      "tagline": "Custom databases, secure user roles, advanced logic, and dedicated server environments.",
+      "pricing": {
+        "basePriceBDT": 85000,
+        "billingType": "one_time"
+      },
+      "deliveryTimeDays": 30,
+      "featuresIncluded": [
+        "Advanced Postgres Database structure",
+        "Secure User Auth & RBAC (Role-based Control)",
+        "Custom Analytics & Admin Dashboard metrics",
+        "Cron job schedulers & background task engines",
+        "API webhook development",
+        "Dedicated server deployment (AWS/DigitalOcean)"
+      ],
+      "featuresExcluded": [
+        "Free ongoing copywriter services"
+      ],
+      "techBadges": [
+        "Next.js",
+        "Node/Laravel",
+        "PostgreSQL",
+        "Docker",
+        "AWS"
+      ],
+      "isPopular": false,
+      "demoUrl": "https://skcomart.com",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "topBadges": [
+        "Client Website"
+      ],
+      "subBadges": [
+        "Next.js",
+        "Node/Laravel"
+      ]
+    },
+    {
+      "id": "prod-meta-capi",
+      "slug": "meta-tracking-capi-precision",
+      "category": "meta_ads",
+      "title": "Meta Tracking & CAPI Precision",
+      "tagline": "Bypass ad blockers and browser privacy shields with server-side event tracking.",
+      "pricing": {
+        "basePriceBDT": 8000,
+        "billingType": "one_time"
+      },
+      "deliveryTimeDays": 3,
+      "featuresIncluded": [
+        "Meta Conversions API (CAPI) Integration",
+        "Event Deduplication (Client & Server keys)",
+        "Custom Meta Data Layer implementation",
+        "Catalog feed diagnostic review",
+        "Advanced Matching Setup (hashed emails/phones)"
+      ],
+      "techBadges": [
+        "Meta Conversions API",
+        "GTM Server-side",
+        "Node.js"
+      ],
+      "isPopular": true,
+      "demoUrl": "https://skcomart.com",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "topBadges": [
+        "Client Website",
+        "Premium"
+      ],
+      "subBadges": [
+        "Meta Conversions API",
+        "GTM Server-side"
+      ]
+    },
+    {
+      "id": "prod-ads-retainer",
+      "slug": "meta-ads-growth-retainer",
+      "category": "meta_ads",
+      "title": "Meta Ads Growth Retainer",
+      "tagline": "Scaling your sales through data-driven campaigns, retargeting funnels, and creative splits.",
+      "pricing": {
+        "basePriceBDT": 25000,
+        "billingType": "monthly_retainer"
+      },
+      "deliveryTimeDays": 30,
+      "featuresIncluded": [
+        "Full Meta Ads account auditing & structuring",
+        "High-converting ad copy write-ups",
+        "Targeted custom & lookalike audience sets",
+        "A/B testing (ad copy, layouts, creatives)",
+        "Weekly reports + Monthly alignment meeting",
+        "Budget Optimization (CBO & ABO configuration)"
+      ],
+      "techBadges": [
+        "Meta Ads Manager",
+        "Looker Studio",
+        "A/B Testing"
+      ],
+      "isPopular": false,
+      "demoUrl": "https://skcomart.com",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "topBadges": [
+        "Client Website"
+      ],
+      "subBadges": [
+        "Meta Ads Manager",
+        "Looker Studio"
+      ]
+    },
+    {
+      "id": "prod-ai-bot",
+      "slug": "ai-sales-agent-lead-automation",
+      "category": "ai_automation",
+      "title": "AI Sales Agent & Lead Automation",
+      "tagline": "Qualify and capture customers 24/7 on WhatsApp/Messenger and sync instantly to your CRM.",
+      "pricing": {
+        "basePriceBDT": 22000,
+        "billingType": "one_time"
+      },
+      "deliveryTimeDays": 7,
+      "featuresIncluded": [
+        "24/7 AI Sales conversational assistant",
+        "WhatsApp Cloud API/Messenger integration",
+        "Lead qualification logic & smart handoff",
+        "Instant CRM syncing (Google Sheets, Notion, HubSpot)",
+        "Daily AI response report log"
+      ],
+      "techBadges": [
+        "OpenAI / Gemini",
+        "Make.com / n8n",
+        "WhatsApp API",
+        "CRM Webhooks"
+      ],
+      "isPopular": true,
+      "demoUrl": "https://skcomart.com",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "topBadges": [
+        "Client Website",
+        "Premium"
+      ],
+      "subBadges": [
+        "OpenAI / Gemini",
+        "Make.com / n8n"
+      ]
+    },
+    {
+      "id": "prod-saas-template",
+      "slug": "saas-starter-template",
+      "category": "digital_products",
+      "title": "SaaS Starter Boilerplate",
+      "tagline": "Pre-configured codebase with Authentication, Stripe billing, and dashboard interface.",
+      "pricing": {
+        "basePriceBDT": 5000,
+        "billingType": "one_time",
+        "discountedPriceBDT": 4000
+      },
+      "deliveryTimeDays": 1,
+      "featuresIncluded": [
+        "Next.js 14 template",
+        "Supabase Authentication built-in",
+        "Stripe checkout dynamic pricing route",
+        "Tailwind Glassmorphic responsive layouts"
+      ],
+      "techBadges": [
+        "Next.js",
+        "Supabase Auth",
+        "Stripe"
+      ],
+      "isPopular": false,
+      "demoUrl": "https://skcomart.com",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "topBadges": [
+        "Client Website"
+      ],
+      "subBadges": [
+        "Next.js",
+        "Supabase Auth"
+      ]
+    },
+    {
+      "slug": "dfhdhdg",
+      "category": "POS- Point Of Sales",
+      "title": "dfhdhdg",
+      "tagline": "nothing",
+      "pricing": {
+        "basePriceBDT": 40000,
+        "billingType": "one_time"
+      },
+      "deliveryTimeDays": 5,
+      "featuresIncluded": [],
+      "featuresExcluded": [],
+      "techBadges": [
+        "react"
+      ],
+      "isPopular": false,
+      "demoUrl": "https://comart.com",
+      "id": "service-1787354541249",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "topBadges": [
+        "Client Website"
+      ],
+      "subBadges": [
+        "react"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "projectId": "ZEN-1002",
+      "businessName": "",
+      "fullName": "Test",
+      "phone": "+8801312089908",
+      "email": "sajidhasan72885@gmail.com",
+      "serviceId": "prod-landing-page",
+      "serviceTitle": "High-Speed Landing Page",
+      "optionsSelected": {
+        "platform": "website",
+        "customization": "customized",
+        "hosting": "hosted",
+        "domain": "need"
+      },
+      "totalBDT": 47000,
+      "paidAmount": 0,
+      "status": "pending",
+      "trxId": "",
+      "projectNote": "",
+      "dueAmount": 47000,
+      "id": "order-1787428759280",
+      "isDeleted": false,
+      "orderedAt": "2026-08-22T19:59:19.280Z"
+    },
+    {
+      "id": "order-1",
+      "fullName": "Zahid Hasan",
+      "phone": "01799887766",
+      "email": "zahid@hasan.me",
+      "serviceId": "prod-landing-page",
+      "serviceTitle": "High-Speed Landing Page",
+      "optionsSelected": {
+        "platform": "website",
+        "customization": "as_is",
+        "hosting": "hosted",
+        "domain": "need"
+      },
+      "totalBDT": 16000,
+      "status": "trash",
+      "orderedAt": "2026-08-20T19:18:41.225Z",
+      "paymentStatus": "partial",
+      "dueAmount": 5000,
+      "trxId": "",
+      "projectNote": "new",
+      "isDeleted": true
+    }
+  ],
+  "pricingPlans": [
+    {
+      "id": "plan-starter",
+      "slug": "high-speed-landing-page",
+      "category": "Starter Plan",
+      "title": "High-Speed Landing Page",
+      "tagline": "Ideal for early startups and small brands running active Meta Ads campaigns.",
+      "pricing": {
+        "basePriceBDT": 12000,
+        "billingType": "one_time"
+      },
+      "deliveryTimeDays": 5,
+      "featuresIncluded": [
+        "1 Page Custom Next.js design",
+        "Lighthouse speed index sub-0.5s",
+        "Meta Pixel + dynamic GTM scripts",
+        "WhatsApp click-to-chat triggers",
+        "12-Month support bug warranty"
+      ],
+      "techBadges": [
+        "Next.js",
+        "Tailwind",
+        "Vercel"
+      ],
+      "isPopular": false
+    },
+    {
+      "id": "plan-business",
+      "slug": "full-ecommerce-engine",
+      "category": "Business Plan",
+      "title": "Full E-Commerce Engine",
+      "tagline": "A comprehensive, sub-second online store setup for retail scale.",
+      "pricing": {
+        "basePriceBDT": 35000,
+        "billingType": "one_time"
+      },
+      "deliveryTimeDays": 14,
+      "featuresIncluded": [
+        "Full category catalogs & dynamic cart",
+        "Steadfast Courier API checkout sync",
+        "Server-side Meta Conversions API (CAPI)",
+        "Sales dashboard & automated invoices",
+        "12-Month support bug warranty"
+      ],
+      "techBadges": [
+        "Next.js",
+        "Node.js",
+        "Supabase"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": "plan-enterprise",
+      "slug": "enterprise-web-application",
+      "category": "Enterprise Plan",
+      "title": "Enterprise Custom Portal",
+      "tagline": "Bespoke software logic, secure user controls, and advanced database indexes.",
+      "pricing": {
+        "basePriceBDT": 85000,
+        "billingType": "one_time"
+      },
+      "deliveryTimeDays": 30,
+      "featuresIncluded": [
+        "Postgres databases & RBAC access",
+        "Client panel logins & statistics grids",
+        "Automated webhook scripts",
+        "Dedicated cloud node setups (AWS/DigitalOcean)",
+        "12-Month support bug warranty"
+      ],
+      "techBadges": [
+        "Next.js",
+        "Laravel/Laravel",
+        "Docker",
+        "AWS"
+      ],
+      "isPopular": false
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin",
+      "username": "admin",
+      "passwordHash": "admin123",
+      "role": "admin",
+      "createdAt": "2026-08-22T19:55:22.711Z"
+    },
+    {
+      "id": "user-manager",
+      "username": "manager",
+      "passwordHash": "manager123",
+      "role": "manager",
+      "createdAt": "2026-08-22T19:55:22.711Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "case-apex-ecom",
+      "category": "web_dev",
+      "clientName": "Apex E-Commerce BD",
+      "title": "Migrating Legacy WordPress Store to Next.js Engine",
+      "tagline": "How speed optimization reduced cart bounce rates and scaled transactions.",
+      "challenge": "Apex suffered from slow page paints (LCP: 4.8 seconds), causing a 38% cart abandonment rate on mobile traffic and a poor Lighthouse performance score (32/100).",
+      "solution": "Rebuilt their catalog stack on Next.js App Router on Vercel CDN. Configured static generation for products index and dynamic checkout flows with local Steafast Courier hooks.",
+      "demoUrl": "https://skcomart.com",
+      "imageUrl": "",
+      "metrics": [
+        {
+          "label": "Page Load Speed",
+          "before": "4.8s",
+          "after": "0.4s",
+          "lift": "91% Decrease"
+        },
+        {
+          "label": "Cart Abandonment",
+          "before": "38%",
+          "after": "12%",
+          "lift": "68% Lower"
+        },
+        {
+          "label": "Sales Transactions",
+          "before": "Base",
+          "after": "1.45x",
+          "lift": "45% Growth"
+        }
+      ],
+      "techBadges": [
+        "Next.js",
+        "PostCSS",
+        "Steadfast API",
+        "Vercel Edge"
+      ],
+      "priority": 10,
+      "createdAt": "2026-08-16T18:57:47.233Z"
+    },
+    {
+      "id": "case-meta-attributions",
+      "category": "meta_ads",
+      "clientName": "NextGen Retailers",
+      "title": "Meta Pixel Conversions API (CAPI) Integration",
+      "tagline": "Regaining 30%+ lost pixel signals caused by ad blockers and iOS 14 policies.",
+      "challenge": "iOS 14 privacy parameters and browser ad blockers blocked up to 35% of client-side purchase pixels, leaving ad campaigns under-attributed and causing high CPA.",
+      "solution": "Established a secure server-side tracking pipe. Events (Purchase, Lead, ViewContent) are dispatched directly from the Next.js server with unique event_id deduplication keys.",
+      "demoUrl": "",
+      "imageUrl": "",
+      "metrics": [
+        {
+          "label": "Event Match Score",
+          "before": "4.2/10",
+          "after": "9.4/10",
+          "lift": "123% Increase"
+        },
+        {
+          "label": "Attributed Sales",
+          "before": "65%",
+          "after": "100%",
+          "lift": "35% Found"
+        },
+        {
+          "label": "Cost Per Purchase",
+          "before": "৳320",
+          "after": "৳195",
+          "lift": "39% Lower CPA"
+        }
+      ],
+      "techBadges": [
+        "Conversions API",
+        "GTM Server-side",
+        "Node.js"
+      ],
+      "priority": 8,
+      "createdAt": "2026-08-26T18:57:47.233Z"
+    },
+    {
+      "id": "case-ai-automation",
+      "category": "ai_automation",
+      "clientName": "Dhaka Logistics Hub",
+      "title": "WhatsApp NLP AI Sales & CRM Integration",
+      "tagline": "Automating customer support queries and booking calendar syncs 24/7.",
+      "challenge": "Customer support teams spent 5+ hours daily responding manually to FAQs and courier bookings, delaying response times and losing potential leads overnight.",
+      "solution": "Built a custom WhatsApp Cloud NLP agent synced directly to their Google Sheets and Notion CRM. The bot qualifies leads and books appointments autonomously.",
+      "demoUrl": "",
+      "imageUrl": "",
+      "metrics": [
+        {
+          "label": "Response Latency",
+          "before": "4 hrs",
+          "after": "Instant",
+          "lift": "99.9% Faster"
+        },
+        {
+          "label": "Qualified Leads",
+          "before": "100%",
+          "after": "3.4x",
+          "lift": "240% Volume"
+        },
+        {
+          "label": "Support Overhead",
+          "before": "5 hrs",
+          "after": "0.5 hrs",
+          "lift": "90% Saved"
+        }
+      ],
+      "techBadges": [
+        "OpenAI Assistant",
+        "Make.com",
+        "Notion Webhooks",
+        "WhatsApp API"
+      ],
+      "priority": 6,
+      "createdAt": "2026-09-05T18:57:47.233Z"
+    }
+  ]
+}

@@ -45,6 +45,10 @@ export async function POST(req: NextRequest) {
       techBadges: Array.isArray(techBadges) ? techBadges : [],
       isPopular: !!isPopular,
       demoUrl: demoUrl || '',
+      videoUrl: body.videoUrl || '',
+      imageUrl: body.imageUrl || '',
+      topBadges: Array.isArray(body.topBadges) ? body.topBadges : [],
+      subBadges: Array.isArray(body.subBadges) ? body.subBadges : [],
       priority: Number(body.priority) || 0
     });
 

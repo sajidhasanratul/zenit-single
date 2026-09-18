@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react';
 import { useRouter, usePathname } from 'next/navigation';
 import Link from 'next/link';
 import { 
-  LayoutDashboard, ShoppingBag, Layers, DollarSign, 
+  LayoutDashboard, ShoppingBag, Layers, 
   Settings, LogOut, UserCheck, ShieldCheck, Briefcase, ExternalLink 
 } from 'lucide-react';
 
@@ -122,18 +122,6 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
             >
               <Layers size={16} />
               Products & Services
-            </Link>
-
-            <Link
-              href="/admin/pricing"
-              className={`flex items-center gap-3.5 px-4.5 py-3.5 rounded-lg border-2 transition-all ${
-                pathname === '/admin/pricing' 
-                  ? 'bg-accentCyan text-white border-slate-900 shadow-neoCyan' 
-                  : 'bg-transparent border-transparent text-slate-600 hover:text-slate-900 hover:bg-slate-100'
-              }`}
-            >
-              <DollarSign size={16} />
-              Pricing Editor
             </Link>
 
             <Link

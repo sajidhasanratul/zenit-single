@@ -40,17 +40,14 @@ export default function AdminProductsServices() {
   const [serviceForm, setServiceForm] = useState({
     title: '',
     category: 'web_dev',
-    tagline: '',
     basePriceBDT: '',
     priority: '0',
-    deliveryTimeDays: '5',
-    features: '',
-    techBadges: '',
     topBadges: 'Client Website, Premium',
     subBadges: 'Multi Vendor E Commerce, Multi-Category',
     demoUrl: 'https://skcomart.com',
     videoUrl: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-    imageUrl: ''
+    imageUrl: '',
+    features: ''
   });
 
   const [panelMsg, setPanelMsg] = useState({ text: '', type: 'success' });
@@ -125,17 +122,14 @@ export default function AdminProductsServices() {
     setServiceForm({
       title: item.title,
       category: item.category,
-      tagline: item.tagline,
       basePriceBDT: item.pricing.basePriceBDT.toString(),
       priority: (item.priority ?? 0).toString(),
-      deliveryTimeDays: item.deliveryTimeDays.toString(),
-      features: item.featuresIncluded.join('\n'),
-      techBadges: item.techBadges.join(', '),
       topBadges: (item.topBadges || []).join(', '),
       subBadges: (item.subBadges || []).join(', '),
       demoUrl: item.demoUrl || 'https://skcomart.com',
       videoUrl: item.videoUrl || '',
-      imageUrl: item.imageUrl || ''
+      imageUrl: item.imageUrl || '',
+      features: item.featuresIncluded.join('\n')
     });
     setPanelMsg({ text: `Editing: "${item.title}" mode active.`, type: 'success' });
   };
@@ -145,17 +139,14 @@ export default function AdminProductsServices() {
     setServiceForm({
       title: '',
       category: 'web_dev',
-      tagline: '',
       basePriceBDT: '',
       priority: '0',
-      deliveryTimeDays: '5',
-      features: '',
-      techBadges: '',
       topBadges: 'Client Website, Premium',
       subBadges: 'Multi Vendor E Commerce, Multi-Category',
       demoUrl: 'https://skcomart.com',
       videoUrl: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      imageUrl: ''
+      imageUrl: '',
+      features: ''
     });
     setPanelMsg({ text: '', type: 'success' });
   };
@@ -167,16 +158,16 @@ export default function AdminProductsServices() {
     const payload = {
       title: serviceForm.title,
       category: serviceForm.category.trim(),
-      tagline: serviceForm.tagline,
+      tagline: '',
       basePriceBDT: Number(serviceForm.basePriceBDT),
       pricing: {
         basePriceBDT: Number(serviceForm.basePriceBDT),
         billingType: 'one_time'
       },
       priority: Number(serviceForm.priority) || 0,
-      deliveryTimeDays: Number(serviceForm.deliveryTimeDays),
+      deliveryTimeDays: 5,
       featuresIncluded: serviceForm.features.split('\n').filter(f => f.trim() !== ''),
-      techBadges: serviceForm.techBadges.split(',').map(b => b.trim()).filter(b => b !== ''),
+      techBadges: serviceForm.subBadges.split(',').map(b => b.trim()).filter(b => b !== ''),
       topBadges: serviceForm.topBadges.split(',').map(b => b.trim()).filter(b => b !== ''),
       subBadges: serviceForm.subBadges.split(',').map(b => b.trim()).filter(b => b !== ''),
       demoUrl: serviceForm.demoUrl,
@@ -366,16 +357,7 @@ export default function AdminProductsServices() {
                 </div>
               </div>
 
-              <div className="grid grid-cols-3 gap-3">
-                <div className="space-y-1.5">
-                  <label className="text-[10px] uppercase font-bold tracking-wider block">Delivery Days</label>
-                  <Input
-                    type="number"
-                    value={serviceForm.deliveryTimeDays}
-                    onChange={(e) => setServiceForm({ ...serviceForm, deliveryTimeDays: e.target.value })}
-                    className="border-slate-350 text-slate-900"
-                  />
-                </div>
+              <div className="grid grid-cols-2 gap-3">
                 <div className="space-y-1.5">
                   <label className="text-[10px] uppercase font-bold tracking-wider block">Priority (Higher=1st)</label>
                   <Input
@@ -441,42 +423,25 @@ export default function AdminProductsServices() {
                 />
               </div>
 
-              <div className="space-y-1.5">
-                <label className="text-[10px] uppercase font-bold tracking-wider block">Tech Badges (csv)</label>
-                <Input
-                  placeholder="React, Next.js, Node.js"
-                  value={serviceForm.techBadges}
-                  onChange={(e) => setServiceForm({ ...serviceForm, techBadges: e.target.value })}
-                  className="border-slate-350 text-slate-900"
-                />
-              </div>
-
-              <div className="space-y-1.5">
-                <label className="text-[10px] uppercase font-bold tracking-wider block">Top Header Badges (csv)</label>
-                <Input
-                  value={serviceForm.topBadges}
-                  onChange={(e) => setServiceForm({ ...serviceForm, topBadges: e.target.value })}
-                  className="border-slate-350 text-slate-900"
-                />
-              </div>
-
-              <div className="space-y-1.5">
-                <label className="text-[10px] uppercase font-bold tracking-wider block">Sub Badges (csv)</label>
-                <Input
-                  value={serviceForm.subBadges}
-                  onChange={(e) => setServiceForm({ ...serviceForm, subBadges: e.target.value })}
-                  className="border-slate-350 text-slate-900"
-                />
-              </div>
-
-              <div className="space-y-1.5">
-                <label className="text-[10px] uppercase font-bold tracking-wider block">Tagline</label>
-                <Input
-                  placeholder="Brief tagline description..."
-                  value={serviceForm.tagline}
-                  onChange={(e) => setServiceForm({ ...serviceForm, tagline: e.target.value })}
-                  className="border-slate-350 text-slate-900"
-                />
+              <div className="grid grid-cols-2 gap-3">
+                <div className="space-y-1.5">
+                  <label className="text-[10px] uppercase font-bold tracking-wider block">Top Header Badges (csv)</label>
+                  <Input
+                    placeholder="e.g. Client Website, Premium"
+                    value={serviceForm.topBadges}
+                    onChange={(e) => setServiceForm({ ...serviceForm, topBadges: e.target.value })}
+                    className="border-slate-350 text-slate-900"
+                  />
+                </div>
+                <div className="space-y-1.5">
+                  <label className="text-[10px] uppercase font-bold tracking-wider block">Sub Badges (csv)</label>
+                  <Input
+                    placeholder="e.g. E-Commerce, Multi-Category"
+                    value={serviceForm.subBadges}
+                    onChange={(e) => setServiceForm({ ...serviceForm, subBadges: e.target.value })}
+                    className="border-slate-350 text-slate-900"
+                  />
+                </div>
               </div>
 
               <div className="space-y-1.5">

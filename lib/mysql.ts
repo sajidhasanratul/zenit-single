@@ -1,17 +1,43 @@
 import mysql from 'mysql2/promise';
 
-// Connection pool singleton
-export const pool = mysql.createPool({
-  host: process.env.MYSQL_HOST || '127.0.0.1',
-  port: Number(process.env.MYSQL_PORT) || 3306,
-  user: process.env.MYSQL_USER || 'root',
-  password: process.env.MYSQL_PASSWORD || '',
-  database: process.env.MYSQL_DATABASE || 'zenit_db',
-  waitForConnections: true,
-  connectionLimit: 10,
-  queueLimit: 0,
-  charset: 'utf8mb4'
-});
+// Connection pool singleton configured for local or external VPS MySQL
+function getPoolConfig(): mysql.PoolOptions {
+  const baseSsl = process.env.MYSQL_SSL === 'true' ? {
+    rejectUnauthorized: process.env.MYSQL_SSL_REJECT_UNAUTHORIZED !== 'false'
+  } : undefined;
+
+  if (process.env.DATABASE_URL || process.env.MYSQL_URL) {
+    return {
+      uri: process.env.DATABASE_URL || process.env.MYSQL_URL,
+      waitForConnections: true,
+      connectionLimit: Number(process.env.MYSQL_CONNECTION_LIMIT) || 10,
+      queueLimit: 0,
+      charset: 'utf8mb4',
+      enableKeepAlive: true,
+      keepAliveInitialDelay: 10000,
+      connectTimeout: Number(process.env.MYSQL_CONNECT_TIMEOUT) || 15000,
+      ssl: baseSsl
+    };
+  }
+
+  return {
+    host: process.env.MYSQL_HOST || '127.0.0.1',
+    port: Number(process.env.MYSQL_PORT) || 3306,
+    user: process.env.MYSQL_USER || 'root',
+    password: process.env.MYSQL_PASSWORD || '',
+    database: process.env.MYSQL_DATABASE || 'zenit_db',
+    waitForConnections: true,
+    connectionLimit: Number(process.env.MYSQL_CONNECTION_LIMIT) || 10,
+    queueLimit: 0,
+    charset: 'utf8mb4',
+    enableKeepAlive: true,
+    keepAliveInitialDelay: 10000,
+    connectTimeout: Number(process.env.MYSQL_CONNECT_TIMEOUT) || 15000,
+    ssl: baseSsl
+  };
+}
+
+export const pool = mysql.createPool(getPoolConfig());
 
 let initialized = false;
 
@@ -214,9 +240,14 @@ export async function initMySQLTables(): Promise<void> {
     await seedDefaultDataIfEmpty();
 
     initialized = true;
-    console.log('✅ MySQL tables initialized and connected to dedicated database.');
-  } catch (err) {
-    console.error('⚠️ MySQL Initialization Notice:', err);
+    const targetHost = process.env.MYSQL_HOST || '127.0.0.1';
+    const targetPort = process.env.MYSQL_PORT || '3306';
+    const targetDb = process.env.MYSQL_DATABASE || 'zenit_db';
+    console.log(`✅ Connected to MySQL database "${targetDb}" at ${targetHost}:${targetPort}`);
+  } catch (err: any) {
+    const targetHost = process.env.MYSQL_HOST || '127.0.0.1';
+    const targetPort = process.env.MYSQL_PORT || '3306';
+    console.error(`❌ MySQL Connection Notice (${targetHost}:${targetPort}):`, err?.message || err);
   }
 }
 
